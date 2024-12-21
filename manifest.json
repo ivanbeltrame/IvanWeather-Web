@@ -7,7 +7,7 @@
     "theme_color": "#fff",
     "background_color": "#fff",
     "orientation": "any",
-    "display": "minimal-ui",
+    "display": "standalone",
     "dir": "ltr",
     "lang": "en",
     "categories": ["weather"],
@@ -63,8 +63,8 @@
     ],
     "display_override": [
       "window-controls-overlay",
-      "minimal-ui",
       "standalone",
+      "minimal-ui",
       "browser"
     ],
     "shortcuts": [
